@@ -1,0 +1,8 @@
+
+1. pwd - to check the directory 
+2. ls
+3. cat
+4. rm
+5. touch 
+
+
