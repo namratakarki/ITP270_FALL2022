@@ -1,0 +1,15 @@
+/*.jsx$
+*.jsx$
+/*.jsx/
+*.jsx?
+/ads/
+/aol/
+/beta/
+/browsers/
+/cl/
+/cnews/
+/cnn_adspaces
+/cnnbeta/
+/cnnintl_adspaces
+/development
+/editionssi
